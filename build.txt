@@ -1,0 +1,9 @@
+author = East
+version = 0.1
+displayName = East's Fishing Extension
+homepage =
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*includePDB = true
+includePDB = true
